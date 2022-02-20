@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,800;0,900;1,300&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    margin: auto;
+    font-family:'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 1px;
+}
+h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+.header {
+    background-image: url(img/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.double-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+.text p {
+    color: #f85f00;
+}
+.col {
+    color: #FD4C2E;
+}
+
+.text {
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.text p {
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+.width {
+    width: 50%;
+    padding: 10px;
+}
+ .bgp img {
+    width: 68%;
+}
+.btn-ctn {
+    padding: 10px 40px;
+    background: linear-gradient(#f85f00,#FD4C2E);
+    color: #fff;
+    border-radius: 20px;
+}
+
+.about {
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+}
+.about-container img{
+    width: 55%;
+    margin-left: 20%;
+}
+.about h2 {
+    margin-top: 20%;
+}
+
+.about p {
+    margin-bottom: 20%;
+}
+
+#recipies h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+
+}
+#recipies p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 5%;
+
+}
+.box1 {
+    padding: 8px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    box-shadow: 5px 7px 40px gray;
+}
+.box1 img{
+    width:80%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.box1 h3 {
+    text-align: center;
+}
+
+.f1 h2 {
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 45px;
+    margin-bottom: -15px;
+}
+.f1 p {
+    text-align: center;
+    font-size: 15px;
+    color: #999;
+}
+
+#last{
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    box-shadow: 5px 7px 40px gray;
+}
+
+footer {
+    height: 100%;
+    width: auto;
+    padding: 50px;
+    background: #000;
+}
+.foot h2 {
+    text-align: center;
+    color: #999;
+    margin-top: 10px;
+}
+.foot p {
+    text-align: center;
+    color: #999;
+}
+
+.foot span {
+
+    color: #FD4C2E;
+}
